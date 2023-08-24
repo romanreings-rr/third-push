@@ -1,0 +1,15 @@
+/* header section starts here */
+
+.logo-class{
+    box-shadow:  5px 10px 8px 10px #888888;
+    height: 80px;
+    display: grid;
+    
+
+}
+
+/* footer section starts here */
+.footer-first-section{
+    display: grid;
+    justify-items: end ;
+}
